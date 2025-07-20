@@ -60,10 +60,6 @@ query = "What is FAISS?"
 # 🤖 Facebook AI Research
 
 query = "What is LangChain used for?"
-# 🤖 building applications using language models
-
-
-
 
 
 
